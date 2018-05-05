@@ -1,0 +1,19 @@
+h1 {
+    background-color: orange;
+    color: white;
+}
+
+.button1 {
+    background-color: peachpuff;
+    color: green;
+}
+
+#display{
+    background-color: green;
+    float: left;
+}
+
+#game
+{
+    font-family: "Times New Roman", Times, serif;
+}
